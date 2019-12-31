@@ -18,7 +18,11 @@
 
 **后续**
 
-基于上次的投票，抽取投票前五的结果进行第二轮投票
+基于2019.12.13的投票，抽取投票前五的结果进行第二轮[投票](https://github.com/EDITeam/VOTE/tree/3rd "VOTE")
+
+**最终**
+
+在2019.12.23发起的第二轮投票之后，抽取投票前三的结果进行最终一轮投票
 
 ***现针对于Dahupt在以下几处的代号命名依据***
 
@@ -38,24 +42,16 @@
 
   - ***[漫威](https://baike.baidu.com/item/%E6%BC%AB%E5%A8%81 'Marvel')***
 
-  [![](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Marvel)](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Marvel/vote)
-
-  - ***[海底总动员](https://baike.baidu.com/item/%E6%B5%B7%E5%BA%95%E6%80%BB%E5%8A%A8%E5%91%98/16513 'Finding Nemo')***
-
-  [![](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Finding%20Nemo)](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Finding%20Nemo/vote)
-
-  - ***[指环王](https://baike.baidu.com/item/%E6%8C%87%E7%8E%AF%E7%8E%8B/14071816 'The Lord Of The Rings')***
-
-  [![](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/The%20Lord%20Of%20The%20Rings)](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/The%20Lord%20Of%20The%20Rings/vote)
+  [![](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Marvel)](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Marvel/vote)
 
 + *名胜名人*
 
   - ***天体英文名***
 
-  [![](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Astronomical)](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Astronomical/vote)
+  [![](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Astronomical)](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Astronomical/vote)
 
   - ***世界山峰、河流、沙漠、湖泊...英文名***
 
-  [![](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Places)](https://api.gh-polls.com/poll/01DWRPEV9R461T7YENEPHBJX3Q/Places/vote)
+  [![](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Places)](https://api.gh-polls.com/poll/01DXDFXRP0GCSDJA6MQDY0PNEG/Places/vote)
 
 **[📖](https://github.com/EDITeam/VOTE/ 'Master')**
